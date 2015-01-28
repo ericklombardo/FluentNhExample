@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2F3EFBD7-902C-4780-94CC-45F930F8F6BE" ModuleId="FluentNh" />
+  <Module PersistentId="FluentNHibernate, Version=2.0.1.0, Culture=neutral, mvid=24e93491-0053-4676-b166-4ba6a0ea99ae" ModuleId="FluentNHibernate" />
+</Modules>
